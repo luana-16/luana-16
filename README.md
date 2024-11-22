@@ -9,3 +9,5 @@ Meu nome é luana
 Entre em contato 📫
 
 luana.bordovicz@escolaa.pr.gov.br
+
+![](https://media.tenor.com/VLLJuwYmqkkAAAAM/error-wait.gif)
